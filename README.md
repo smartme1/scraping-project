@@ -1,4 +1,3 @@
-# scraping-project
 # 🧭 Tourism Data Scraping – Morocco (Rabat)
 
 Ce projet vise à **collecter, nettoyer et structurer des données touristiques** au Maroc, en commençant par la ville de Rabat.  
